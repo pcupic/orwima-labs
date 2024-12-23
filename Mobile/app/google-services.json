@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665120597167",
+    "project_id": "ormwalv8-cupic",
+    "storage_bucket": "ormwalv8-cupic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665120597167:android:67c3d0912a2515a52fa05a",
+        "android_client_info": {
+          "package_name": "hr.ferit.patrikcupic.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4cK8XkYeSxVWJG5fhOIjPfBUO-OXfBzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

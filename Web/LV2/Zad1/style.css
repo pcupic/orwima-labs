@@ -1,0 +1,52 @@
+ol {
+    width: 250px;
+    padding: 5px;
+    border: 2px solid;
+    list-style-position: inside;
+}
+
+ol li {
+    padding: 3px; 
+    padding-left: 34px;
+    margin-bottom: 5px;
+}
+
+ol li:last-child {
+    margin-bottom: 0px;
+}
+
+ol li:nth-child(1) {
+    background: url("images/en-GB.png") no-repeat 5px center rgba(0, 128, 0, 0.25);
+}
+
+ol li:nth-child(2) {
+    background: url("images/es.png") no-repeat 5px center rgba(0, 0, 255, 0.5);
+}
+
+ol li:nth-child(3) {
+    background: url("images/de.png") no-repeat 5px center rgba(255, 0, 0, 0.75);
+}
+
+ol li:nth-child(4) {
+    background: url("images/es.png") no-repeat 5px center rgba(0, 0, 255, 0.5);
+}
+
+ol li:nth-child(5) {
+    background: url("images/de.png") no-repeat 5px center rgba(255, 0, 0, 0.75);
+}
+
+ol li:nth-child(6) {
+    background: url("images/en-GB.png") no-repeat 5px center rgba(0, 128, 0, 0.25);
+}
+
+a {
+    color: black;
+    outline: none;
+    text-decoration: none;
+}
+ 
+a:hover {
+    text-decoration: underline; 
+    text-transform: uppercase; 
+    color: red; 
+}
